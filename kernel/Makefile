@@ -1,4 +1,4 @@
-
+ 
 OSNAME = CustomOS
 
 GNUEFI = ../gnu-efi
